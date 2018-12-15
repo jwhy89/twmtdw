@@ -7,6 +7,10 @@ body {
 	float: right;
 }
 
+#content info {
+	line-height: 2px;
+}
+
 #button {
 	margin-left: 40%;
 	margin-right: 40%;
