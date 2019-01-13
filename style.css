@@ -46,6 +46,10 @@ body {
 	font-size: 28px;
 }
 
+#listserc {
+	font: 16px;
+}
+
 .date {
 	float: right;
 }
